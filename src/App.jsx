@@ -1,12 +1,6 @@
-import {
-  CssBaseline,
-  ThemeProvider,
-  Container,
-  Box,
-  Typography,
-} from '@mui/material';
+import { CssBaseline, ThemeProvider, Container, Box, Typography } from '@mui/material';
 import theme from "./theme";
-import { Hero, Projects, Experience } from "@components";
+import { Hero, Projects } from "@components";
 
 function App() {
   return (
@@ -15,8 +9,6 @@ function App() {
       <Box sx={{ flexGrow: 1 }}>
         <Hero />
         <Projects />
-        <Experience />
-
         <Box sx={{ py: 3, bgcolor: "background.default", textAlign: "center" }}>
           <Container>
             <Typography variant="body2" color="text.secondary" sx={{ mt: 1 }}>
