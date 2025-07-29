@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Rating Pistol",
+    "description": "Comprehensive build tracker and analysis tool for popular gacha games such as Genshin Impact, Honkai Star Rail, Wuthering Waves, and Zenless Zone Zero.",
+    "github": "https://github.com/burgerhotdog/rating-pistol",
+    "live": "https://burgerhotdog.github.io/rating-pistol"
+  },
+  {
+    "title": "Pokémon TCGP Pack Simulator",
+    "description": "Simulate opening Pokémon TCGP packs, complete with accurate card selection probabilities and animation effects.",
+    "github": "https://github.com/burgerhotdog/tcgp-sim",
+    "live": "https://burgerhotdog.github.io/tcgp-sim"
+  },
+  {
+    "title": "reBabel Desktop",
+    "description": "Desktop application helping linguists convert language data between common file formats used in research, such as ELAN, flextext, and CoNLL-U.",
+    "github": "https://github.com/ElizabethThorner/FrontEndRebabel",
+    "live": "https://github.com/ElizabethThorner/FrontEndRebabel/releases"
+  },
+  {
+    "title": "Neurosurgery Web Portal",
+    "description": "Comprehensive web app for the University of Florida Neurosurgery Department facilitating appointment management for both patients and administrators.",
+    "github": "https://github.com/AlyssaMarotta/Neuro6",
+    "live": "https://neuro6.herokuapp.com/"
+  }
+]
